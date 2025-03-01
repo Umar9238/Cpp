@@ -1,2 +1,2 @@
 # Cpp
- This language was my first journey at programming
+ The Best language to Start your Programming journey i Reckon
